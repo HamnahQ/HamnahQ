@@ -6,7 +6,9 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![memeGenerator](https://svg.bookmark.style/api?url=https://github.com/HamnahQ/meme-generator&mode=dark&style=horizontal)](https://github.com/HamnahQ/meme-generator)
+#Borealis AI: Let's Solve it!
+[![EduEval](https://svg.bookmark.style/api?url=https://github.com/linguini1/EduEval&mode=dark&style=horizontal)](https://github.com/linguini1/EduEval)
+
 [![careFinder](https://svg.bookmark.style/api?url=https://github.com/linguini1/careFinder&mode=dark&style=horizontal)](https://github.com/linguini1/careFinder)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
