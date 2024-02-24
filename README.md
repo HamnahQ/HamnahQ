@@ -1,6 +1,6 @@
 # Hi I'm Hamnah Qureshi
 
-💻Second year computer systems engineering student who is passionate about coding </br>
+💻Third year computer systems engineering student who is passionate about coding </br>
 🚀 Always eager to learn new languages and tools to level up my game. </br>
 👀 Take a look at my GitHub profile to see what I've been up to! 
 
